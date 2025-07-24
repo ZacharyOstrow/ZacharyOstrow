@@ -6,7 +6,7 @@ A simple, elegant personal website hosted via **GitHub Pages**, with built-in su
 - 🖼️ Images
 - 📄 Downloadable documents
 
-> Live Site: [https://yourusername.github.io](https://yourusername.github.io)
+> Live Site: [https://yourusername.github.io](https://zacharyostrow.github.io)
 
 ## 🚀 How to Use
 
